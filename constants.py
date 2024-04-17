@@ -1,7 +1,7 @@
 base_url = 'https://www.fotmob.com/api'
 
 allowed_ccodes = [
-    'ENG',
+    # 'ENG',
     'ESP',
     'GER',
     'ITA',
@@ -9,9 +9,9 @@ allowed_ccodes = [
     'NED',
     'POR',
     'TUR',
-    'BEL',
+    # 'BEL',
     'KSA',
-    'EGY',
+    # 'EGY',
 ]
 
 country_names = {
